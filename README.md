@@ -100,5 +100,5 @@ Este repositorio contiene los pasos básicos para preparar un entorno de **desar
 ---
 
 ## 👩‍💻 Autores
-- **Tatina Cabrera**  
+- **Tatiana Cabrera**  
 - **Albert Ospina**
